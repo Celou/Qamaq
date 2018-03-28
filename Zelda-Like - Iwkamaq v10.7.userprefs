@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Iwkamaq\Particles\Jul\ScriptsJul\ShaderEau\Water2D Surface\scripts\Water2DScript.cs">
+    <Files>
+      <File FileName="Assets\Iwkamaq\Script\PNJ and Monsters\Monsters\scrEnemyBase.cs" Line="389" Column="5" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\Buttons\scrYamtaLightningButton.cs" Line="230" Column="34" />
+      <File FileName="Assets\Iwkamaq\Script\Player\scrExperienceManager.cs" Line="253" Column="40" />
+      <File FileName="Assets\Iwkamaq\Script\Player\scrPlayer.cs" Line="708" Column="1" />
+      <File FileName="Assets\Iwkamaq\Script\scrOrderInLayer.cs" Line="20" Column="1" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\scrPlayerLightning.cs" Line="22" Column="1" />
+      <File FileName="Assets\Iwkamaq\Script\scrLifeTime.cs" Line="7" Column="27" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\Buttons\scrTotemButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Iwkamaq\Particles\Jul\ScriptsJul\ShaderEau\Water2D Surface\scripts\Water2DScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

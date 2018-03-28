@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy_bullet
+  - enemy_cac
+  - limite_droite
+  - limite_gauche
+  - limite_haut
+  - limite_bas
+  - escalier_droite
+  - player_bullet
+  - effectZone
+  - player_punch
+  - playerPunch
+  - bushHeal
+  - healingFruit
+  - littleRock
+  - gorillaRock
+  - protectingRock
+  - gorillaContactDamage
+  - Fruit
+  - vendettaSphere
+  - heavenlyLightning
+  - monkey
+  - enemy1
+  - enemy2
+  - enemy3
+  - playerLightning
+  - arenamob
+  - crawler
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - trees
+  - Particles
+  - Cache
+  - CompetenceTree
+  - Buttons
+  - Canvas
+  - PostProd
+  - Eautest
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3245012949
+    locked: 0
+  - name: trees
+    uniqueID: 367161455
+    locked: 0

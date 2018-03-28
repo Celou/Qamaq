@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 115e672bbc843cf40af8e92caa3d9e0d
+timeCreated: 1511890886
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - idleSprite: {instanceID: 0}
+  - enemyBaseRenderer: {instanceID: 0}
+  - monkeyAnimator: {instanceID: 0}
+  - rightStunFlashSprite: {instanceID: 0}
+  - leftStunFlashSprite: {instanceID: 0}
+  - rightStunSprite: {instanceID: 0}
+  - leftStunSprite: {instanceID: 0}
+  - hitParticles: {fileID: 1932219026615844, guid: 1855c21474b2a5d45a7a34a6fee518e9,
+      type: 2}
+  - deathParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

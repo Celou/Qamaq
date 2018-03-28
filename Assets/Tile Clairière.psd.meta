@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 4f3ca429b29ce6648a1e4894b548ac1e
+timeCreated: 1522256276
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Tile Clairi\xE8re_0"
+    21300002: "Tile Clairi\xE8re_1"
+    21300004: "Tile Clairi\xE8re_2"
+    21300006: "Tile Clairi\xE8re_3"
+    21300008: "Tile Clairi\xE8re_4"
+    21300010: "Tile Clairi\xE8re_5"
+    21300012: "Tile Clairi\xE8re_6"
+    21300014: "Tile Clairi\xE8re_7"
+    21300016: "Tile Clairi\xE8re_8"
+    21300018: "Tile Clairi\xE8re_9"
+    21300020: "Tile Clairi\xE8re_10"
+    21300022: "Tile Clairi\xE8re_11"
+    21300024: "Tile Clairi\xE8re_12"
+    21300026: "Tile Clairi\xE8re_13"
+    21300028: "Tile Clairi\xE8re_14"
+    21300030: "Tile Clairi\xE8re_15"
+    21300032: "Tile Clairi\xE8re_16"
+    21300034: "Tile Clairi\xE8re_17"
+    21300036: "Tile Clairi\xE8re_18"
+    21300038: "Tile Clairi\xE8re_19"
+    21300040: "Tile Clairi\xE8re_20"
+    21300042: "Tile Clairi\xE8re_21"
+    21300044: "Tile Clairi\xE8re_22"
+    21300046: "Tile Clairi\xE8re_23"
+    21300048: "Tile Clairi\xE8re_24"
+    21300050: "Tile Clairi\xE8re_25"
+    21300052: "Tile Clairi\xE8re_26"
+    21300054: "Tile Clairi\xE8re_27"
+    21300056: "Tile Clairi\xE8re_28"
+    21300058: "Tile Clairi\xE8re_29"
+    21300060: "Tile Clairi\xE8re_30"
+    21300062: "Tile Clairi\xE8re_31"
+    21300064: "Tile Clairi\xE8re_32"
+    21300066: "Tile Clairi\xE8re_33"
+    21300068: "Tile Clairi\xE8re_34"
+    21300070: "Tile Clairi\xE8re_35"
+    21300072: "Tile Clairi\xE8re_36"
+    21300074: "Tile Clairi\xE8re_37"
+    21300076: "Tile Clairi\xE8re_38"
+    21300078: "Tile Clairi\xE8re_39"
+    21300080: "Tile Clairi\xE8re_40"
+    21300082: "Tile Clairi\xE8re_41"
+    21300084: "Tile Clairi\xE8re_42"
+    21300086: "Tile Clairi\xE8re_43"
+    21300088: "Tile Clairi\xE8re_44"
+    21300090: "Tile Clairi\xE8re_45"
+    21300092: "Tile Clairi\xE8re_46"
+    21300094: "Tile Clairi\xE8re_47"
+    21300096: "Tile Clairi\xE8re_48"
+    21300098: "Tile Clairi\xE8re_49"
+    21300100: "Tile Clairi\xE8re_50"
+    21300102: "Tile Clairi\xE8re_51"
+    21300104: "Tile Clairi\xE8re_52"
+    21300106: "Tile Clairi\xE8re_53"
+    21300108: "Tile Clairi\xE8re_54"
+    21300110: "Tile Clairi\xE8re_55"
+    21300112: "Tile Clairi\xE8re_56"
+    21300114: "Tile Clairi\xE8re_57"
+    21300116: "Tile Clairi\xE8re_58"
+    21300118: "Tile Clairi\xE8re_59"
+    21300120: "Tile Clairi\xE8re_60"
+    21300122: "Tile Clairi\xE8re_61"
+    21300124: "Tile Clairi\xE8re_62"
+    21300126: "Tile Clairi\xE8re_63"
+    21300128: "Tile Clairi\xE8re_64"
+    21300130: "Tile Clairi\xE8re_65"
+    21300132: "Tile Clairi\xE8re_66"
+    21300134: "Tile Clairi\xE8re_67"
+    21300136: "Tile Clairi\xE8re_68"
+    21300138: "Tile Clairi\xE8re_69"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_0"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 820
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_1"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 767
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_2"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 733
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_3"
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 733
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_4"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 678
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_5"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 678
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_6"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_7"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_8"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 568
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_9"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_10"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 568
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_11"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_12"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_13"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 392
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_14"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 337
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_15"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 282
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_16"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 282
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_17"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_18"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_19"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_20"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_21"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_22"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_23"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 60
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_24"
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 60
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_25"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 60
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_26"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_27"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_28"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 60
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_29"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 60
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_30"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_31"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_32"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 115
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_33"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_34"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 172
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_35"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_36"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 227
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_37"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 282
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_38"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 337
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_39"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_40"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_41"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_42"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 568
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_43"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 568
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_44"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_45"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 623
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_46"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 678
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_47"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 678
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_48"
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 678
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_49"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 733
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_50"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 733
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_51"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 767
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_52"
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 820
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_53"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 260
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_54"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 260
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_55"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 337
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_56"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 337
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_57"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 392
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_58"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_59"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_60"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_61"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_62"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_63"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 392
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_64"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_65"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 510
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_66"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_67"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 392
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_68"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 337
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Tile Clairi\xE8re_69"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 337
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

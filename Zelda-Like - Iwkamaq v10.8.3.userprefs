@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Iwkamaq\Script\Player\scrPlayer.cs">
+    <Files>
+      <File FileName="Assets\Iwkamaq\Script\Player\scrPlayer.cs" Line="888" Column="4" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\Buttons\scrBoostButton.cs" Line="389" Column="3" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\scrCompetenceManager.cs" Line="655" Column="15" />
+      <File FileName="Assets\Iwkamaq\Script\PNJ and Monsters\Monsters\scrEnemyBase.cs" Line="518" Column="5" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\Buttons\scrProtectionSphereButton.cs" Line="390" Column="1" />
+      <File FileName="Assets\Iwkamaq\Script\Player\Competences\Buttons\scrTotemButton.cs" Line="407" Column="1" />
+      <File FileName="Assets\Iwkamaq\Script\Player\scrExperienceManager.cs" Line="331" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

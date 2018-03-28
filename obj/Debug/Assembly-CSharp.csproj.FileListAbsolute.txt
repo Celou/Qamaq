@@ -1,0 +1,104 @@
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\nunit.framework.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEditor.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEditor.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\nunit.framework.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\s.butor\Documents\Zelda-Like\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\s.butor\Documents\Zelda-Like\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\s.butor\Documents\Zelda-Like\obj\Debug\Assembly-CSharp.dll
+C:\Users\s.butor\Documents\Zelda-Like\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Luffybomber2000\Desktop\Zelda-Like v2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Luffybomber2000\Desktop\Zelda-Like v2\obj\Debug\Assembly-CSharp.dll
+C:\Users\Luffybomber2000\Desktop\Zelda-Like v2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\obj\Debug\Assembly-CSharp.dll
+C:\Users\Luffybomber2000\Desktop\Projets Zelda Like\Zelda-Like v4.6\obj\Debug\Assembly-CSharp.pdb

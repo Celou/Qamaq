@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zelda-Like - Iwkamaq v12.1.6- presque prêt pour la prez - Copie (4)", "Zelda-Like - Iwkamaq v12.1.6- presque prêt pour la prez - Copie (4).csproj", "{B6AC3C97-08EC-61AF-D233-84609D8433CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zelda-Like - Iwkamaq v12.1.6- presque prêt pour la prez - Copie (4).Editor", "Zelda-Like - Iwkamaq v12.1.6- presque prêt pour la prez - Copie (4).Editor.csproj", "{8190CEEE-D219-F441-9FFE-A2962962C07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6AC3C97-08EC-61AF-D233-84609D8433CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AC3C97-08EC-61AF-D233-84609D8433CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AC3C97-08EC-61AF-D233-84609D8433CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AC3C97-08EC-61AF-D233-84609D8433CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8190CEEE-D219-F441-9FFE-A2962962C07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8190CEEE-D219-F441-9FFE-A2962962C07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8190CEEE-D219-F441-9FFE-A2962962C07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8190CEEE-D219-F441-9FFE-A2962962C07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

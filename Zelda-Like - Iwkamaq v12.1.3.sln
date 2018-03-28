@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zelda-Like - Iwkamaq v12.1.3", "Assembly-CSharp.csproj", "{D751730A-2458-FEFE-874C-C041E4FCCE27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zelda-Like - Iwkamaq v12.1.3", "Assembly-CSharp-Editor.csproj", "{9933A77E-9BF4-0321-1F19-3B35B8C26944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D751730A-2458-FEFE-874C-C041E4FCCE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D751730A-2458-FEFE-874C-C041E4FCCE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D751730A-2458-FEFE-874C-C041E4FCCE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D751730A-2458-FEFE-874C-C041E4FCCE27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9933A77E-9BF4-0321-1F19-3B35B8C26944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9933A77E-9BF4-0321-1F19-3B35B8C26944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9933A77E-9BF4-0321-1F19-3B35B8C26944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9933A77E-9BF4-0321-1F19-3B35B8C26944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
