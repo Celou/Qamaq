@@ -19,8 +19,8 @@ public class scrPlayerLightning : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        if (scrExperienceManager.ExperienceManager.inCompetenceMenu == true)
-            return;
+        /*if (scrExperienceManager.ExperienceManager.inCompetenceMenu == true)
+            return;*/
 
         if (!LightningAnimator.GetCurrentAnimatorStateInfo(0).IsName("Destruction") && !LightningAnimator.GetCurrentAnimatorStateInfo(0).IsName("destroyed"))
             transform.Translate(Vector3.up * Time.deltaTime * playerBulletSpeed);

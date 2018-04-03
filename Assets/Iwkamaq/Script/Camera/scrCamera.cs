@@ -10,7 +10,7 @@ public class scrCamera : MonoBehaviour
     public bool followingThePlayer;
     public Transform Player;
     Vector3 Position;
-    float baseCameraSize;
+
 
 
     float launchTime;
@@ -27,6 +27,12 @@ public class scrCamera : MonoBehaviour
     float currentTransitionTime;
     public float immobilizationTime;
     float currentImmobilizationTime;
+
+    [Header("CameraSize")]
+    public float cameraSizeChangeSpeed;
+    float baseCameraSize;
+    float goalCameraSize;
+    float currentCameraSize;
 
     [Header("Camera Recenter")]
     public float cameraRecenterSpeed;
@@ -49,6 +55,12 @@ public class scrCamera : MonoBehaviour
     public Vector3 StartPosition;
     public Vector3 GoalPosition;
 
+    [Header("ManualGesture")]
+    public float manualCameraSpeed;
+    float manualDirX;
+    float manualDirZ;
+    bool manual;
+
     // Use this for initialization
     void Start()
     {
@@ -66,13 +78,13 @@ public class scrCamera : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if (followingThePlayer
-            && !scrExperienceManager.ExperienceManager.inCompetenceMenu && launchTime <= 0
+            && /*!scrExperienceManager.ExperienceManager.inCompetenceMenu &&*/ launchTime <= 0
             /*&& GetComponent<Screenshake>().shakeDuration <= 0*/
             && GetComponent<ScreenshakeVertical>().shakeDuration <= 0
-            && GetComponent<ScreenshakeHorizontal>().shakeDuration <= 0 &&
-            !eventing)
+            && GetComponent<ScreenshakeHorizontal>().shakeDuration <= 0
+            && !eventing
+            && !manual)
         {
 
             CameraPositionUpdate();
@@ -87,6 +99,8 @@ public class scrCamera : MonoBehaviour
         if (!eventing)
             RecenterCamera();
 
+        ManualMovementUpdate();
+
         FilterUpdate();
 
         GetComponent<Screenshake>().originalPos = transform.position;
@@ -95,6 +109,7 @@ public class scrCamera : MonoBehaviour
 
         //CanvasUpdate();
 
+        CameraSizeUpdate();
 
     }
 
@@ -249,7 +264,7 @@ public class scrCamera : MonoBehaviour
     void CanvasUpdate()
     {
 
-        gameCanvas.sortingOrder = Player.GetComponent<scrPlayer>().PlayerRenderer.sortingOrder + 500;
+        //gameCanvas.sortingOrder = Player.GetComponent<scrPlayer>().PlayerRenderer.sortingOrder + 500;
 
     }
 
@@ -257,11 +272,6 @@ public class scrCamera : MonoBehaviour
     {
 
         filter.transform.localScale = new Vector3(baseXScale, baseYScale, 1) * (selfCamera.orthographicSize / baseCameraSize);
-
-        if (scrExperienceManager.ExperienceManager.inCompetenceMenu)
-            filter.transform.localPosition = new Vector3(0, 0, 0.5f);
-        else
-            filter.transform.localPosition = new Vector3(0, 2 * selfCamera.orthographicSize, 0.5f);
 
     }
 
@@ -275,6 +285,63 @@ public class scrCamera : MonoBehaviour
             dir = new Vector3(posX, 10, posZ);
 
             transform.position = dir;
+        }
+    }
+
+    void CameraSizeUpdate()
+    {
+        if (Mathf.Abs(currentCameraSize - goalCameraSize) > 0.1f)
+        {
+            Debug.Log("ça change");
+            currentCameraSize = Mathf.Lerp(currentCameraSize, goalCameraSize, Time.deltaTime * cameraSizeChangeSpeed);
+        }
+        else
+            currentCameraSize = goalCameraSize;
+
+        selfCamera.orthographicSize = currentCameraSize;
+        transform.localScale = new Vector3(currentCameraSize / baseCameraSize, currentCameraSize / baseCameraSize, currentCameraSize / baseCameraSize);
+
+    }
+
+    void ManualMovementUpdate()
+    {
+        float currentManualSwitchTime = 0;
+
+        if (Input.GetKeyDown(KeyCode.RightShift) && !manual && currentManualSwitchTime == 0)
+        {
+            manual = true;
+            currentManualSwitchTime = 1;
+        }
+
+        if (Input.GetKeyDown(KeyCode.RightShift) && manual && currentManualSwitchTime == 0)
+        {
+            manual = false;
+            currentManualSwitchTime = 1;
+        }
+
+        if (manual)
+        {
+            manualDirX = Input.GetAxis("Horizontal");
+            manualDirZ = Input.GetAxis("Vertical");
+            transform.Translate(new Vector3(manualDirX, 0, manualDirZ).normalized * Time.deltaTime * manualCameraSpeed, Space.World);
+
+            if (Input.GetKeyDown(KeyCode.KeypadPlus))
+            {
+                Debug.Log("dezoom");
+                goalCameraSize += 1;
+            }
+            if (Input.GetKeyDown(KeyCode.KeypadMinus))
+            {
+                Debug.Log("zoom");
+                goalCameraSize -= 1;
+            }
+            //Debug.Log("goal : " + goalCameraSize);
+            Debug.Log("current : " + currentCameraSize);
+        }
+        else
+        {
+            currentCameraSize = baseCameraSize;
+            goalCameraSize = currentCameraSize;
         }
     }
 }

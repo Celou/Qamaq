@@ -24,7 +24,7 @@ public class scrClearingEventManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		prefab.transform.parent = transform;
+		//prefab.transform.parent = transform;
 		if (scrcheckpoint.playerNear == false && arena == false )
 		{
 			

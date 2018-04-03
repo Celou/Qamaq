@@ -80,8 +80,8 @@ public class scrProtectionSphereButton : MonoBehaviour, IPointerEnterHandler, IP
             scrCompetenceManager.CompetenceManager.EquipInThirdSlot(scrCompetenceManager.CompetenceManager.protectionSphereName);
         }
 
-        if (scrExperienceManager.ExperienceManager.inCompetenceMenu)
-            FeedbackUpdate();
+        /*if (scrExperienceManager.ExperienceManager.inCompetenceMenu)
+            FeedbackUpdate();*/
 
         ParticlesUpdate();
 

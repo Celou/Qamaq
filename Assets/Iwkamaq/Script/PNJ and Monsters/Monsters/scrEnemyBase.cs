@@ -294,7 +294,7 @@ public class scrEnemyBase : MonoBehaviour
 				{
 					Instantiate(hitParticles, transform.position, new Quaternion(-other.transform.rotation.x, other.transform.rotation.y, -other.transform.rotation.z, other.transform.rotation.w));
 
-					currentKnockbackDirection = Player.GetComponent<scrPlayer>().Pivot.up;
+					//currentKnockbackDirection = Player.GetComponent<scrPlayer>().Pivot.up;
 
 				}
 
@@ -346,8 +346,8 @@ public class scrEnemyBase : MonoBehaviour
 				if (other.tag == "playerPunch")
 				{
 
-					Player.GetComponent<scrPlayer>().mainCamera.GetComponent<Screenshake>().shakeDuration = Player.GetComponent<scrPlayer>().finalPunchScreenshakeDuration;
-					Player.GetComponent<scrPlayer>().mainCamera.GetComponent<Screenshake>().shakeAmount = Player.GetComponent<scrPlayer>().finalPunchScreenshakeAmount;
+					Player.GetComponent<scrPlayer>().mainCamera.GetComponent<Screenshake>().shakeDuration = Player.GetComponent<scrPlayerPunchUpdate>().finalPunchScreenshakeDuration;
+					Player.GetComponent<scrPlayer>().mainCamera.GetComponent<Screenshake>().shakeAmount = Player.GetComponent<scrPlayerPunchUpdate>().finalPunchScreenshakeAmount;
 				}
 
 			}

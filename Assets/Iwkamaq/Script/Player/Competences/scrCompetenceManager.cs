@@ -157,6 +157,8 @@ public class scrCompetenceManager : MonoBehaviour {
 		currentDamageBoostAmount = 1;
 		currentSpeedBoostAmount = 1;
 
+        protectionSphereCollider.radius = 0;
+
 
 	}
 
@@ -173,13 +175,13 @@ public class scrCompetenceManager : MonoBehaviour {
 
 		EquipedCompetencesChecker();
 
-		if (!scrExperienceManager.ExperienceManager.inCompetenceMenu)
+		/*if (!scrExperienceManager.ExperienceManager.inCompetenceMenu)
 		{
 
 			VendettaSphereExpandUpdate();
 			HeavenlyLightningExpandUpdate();
 
-		}
+		}*/
 
 		ButtonsFill();
 

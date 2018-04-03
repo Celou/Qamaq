@@ -120,8 +120,8 @@ public class scrDamagesManager : MonoBehaviour {
 	{
 		if (name == "playerPunch")
 		{
-			if (player.GetComponent<scrPlayer>().currentPunchCombo == 0)
-				return player.GetComponent<scrPlayer>().currentPlayerDamage * player.GetComponent<scrPlayer>().finalPunchDamagesMultiplicator;
+			if (player.GetComponent<scrPlayerPunchUpdate>().currentPunchCombo == 0)
+				return player.GetComponent<scrPlayer>().currentPlayerDamage * player.GetComponent<scrPlayerPunchUpdate>().finalPunchDamagesMultiplicator;
 			else
 				return player.GetComponent<scrPlayer>().currentPlayerDamage;
 		}
@@ -150,7 +150,7 @@ public class scrDamagesManager : MonoBehaviour {
 
 		if (name == "playerPunch")
 		{
-			if (player.GetComponent<scrPlayer>().currentPunchCombo == 0)
+			if (player.GetComponent<scrPlayerPunchUpdate>().currentPunchCombo == 0)
 				return playerFinalPunchKnockBack;
 			else
 				return playerBasePunchKnockBack;
@@ -180,7 +180,7 @@ public class scrDamagesManager : MonoBehaviour {
 
 		if (name == "playerPunch")
 		{                       
-			if (player.GetComponent<scrPlayer>().currentPunchCombo == 0)
+			if (player.GetComponent<scrPlayerPunchUpdate>().currentPunchCombo == 0)
 				return playerFinalPunchStunDuration;
 			else
 				return playerBasePunchStunDuration;

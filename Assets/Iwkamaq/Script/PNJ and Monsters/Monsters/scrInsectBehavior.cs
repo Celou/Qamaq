@@ -62,10 +62,18 @@ public class scrInsectBehavior : MonoBehaviour
 
 
 
-	void Attack()
-	{
-		body.velocity = direction.normalized * speed * Time.deltaTime;
-	}
+    void Attack()
+    {
+        Vector3 mousePos = scrEnemyManager.EnemyManager.enemyBaseTarget.position;
+        mousePos.y = 0;
+        Vector3 dir = mousePos - transform.position;
+
+        float rotY = Mathf.Atan2(dir.x, dir.z) * Mathf.Rad2Deg;
+
+        transform.rotation = Quaternion.Euler(90, rotY, 0);
+
+        body.velocity = direction.normalized * speed * Time.deltaTime;
+    }
 
 	void OnTriggerEnter(Collider other)
 	{
