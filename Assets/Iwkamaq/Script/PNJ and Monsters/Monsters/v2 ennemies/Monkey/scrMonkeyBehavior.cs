@@ -10,6 +10,8 @@ public class scrMonkeyBehavior : MonoBehaviour {
 	public bool chase;
 	public bool detect;
 	public bool attack;
+    public bool preparing;
+    public bool stunedToTheGround;
 
     [Header("Physic")]
 	Rigidbody body;
@@ -41,7 +43,7 @@ public class scrMonkeyBehavior : MonoBehaviour {
     public float monkeyVulnerabilityMultiplicator;
 
     [Header("Stun")]
-    bool stun;
+    public bool stun;
 
 	//Création 26 mars 2018
 	// Modification 28 mars 2018 Ajout ChaseState => Working \\ Objectif => Attack State, Fleeing State, Special Attack State
@@ -140,10 +142,13 @@ public class scrMonkeyBehavior : MonoBehaviour {
 	}
 	//AttackState
 	private IEnumerator AttackRoutine(){
+        preparing = false;
 		if (Vector3.Distance (Player.position, transform.position) <= attackDistance && currentCooldown == 0 && !stun) {
 			body.velocity = direction.normalized * 0 * Time.deltaTime;
 			attackdirection = Player.position - transform.position;
-			yield return new WaitForSeconds (1f);
+            preparing = true;
+            yield return new WaitForSeconds (1f);
+            preparing = false;
 			body.velocity = attackdirection.normalized * 1000 * Time.deltaTime;
 			currentCooldown = Random.Range (Cooldownmin, Cooldownmax);
 			if (currentAttackDuration <= 0) {
@@ -197,6 +202,7 @@ public class scrMonkeyBehavior : MonoBehaviour {
     {
         GetComponentInChildren<scrObjectStun>().vulnerable = attack;
         GetComponentInChildren<scrObjectStun>().vulnerabilityMultiplicator = monkeyVulnerabilityMultiplicator;
+        stunedToTheGround = GetComponentInChildren<scrObjectStun>().hitWhileVulnerable;
     }
 
     void StunUpdate()

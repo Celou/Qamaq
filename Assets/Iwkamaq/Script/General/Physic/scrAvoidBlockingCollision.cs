@@ -23,7 +23,6 @@ public class scrAvoidBlockingCollision : MonoBehaviour
             if (collision.gameObject.GetComponent<BoxCollider>() != null)
             {
                 collisionCenter = new Vector3(collision.transform.position.x + collision.transform.localScale.x * collision.gameObject.GetComponent<BoxCollider>().center.x, 0, collision.transform.position.z + collision.transform.localScale.y * collision.gameObject.GetComponent<BoxCollider>().center.y);
-                Debug.Log(collisionCenter);
 
                 if ((Mathf.Abs(objectCenter.x - collisionCenter.x) < Mathf.Abs((transform.localScale.x * GetComponent<BoxCollider>().size.x / 2) + (collision.transform.localScale.x * collision.gameObject.GetComponent<BoxCollider>().size.x / 2) - 0.1f))
                     && (Mathf.Abs(objectCenter.z - collisionCenter.z) < Mathf.Abs((transform.localScale.y * GetComponent<BoxCollider>().size.y / 2) + (collision.transform.localScale.y * collision.gameObject.GetComponent<BoxCollider>().size.y / 2) - 0.1f))

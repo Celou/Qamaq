@@ -10,6 +10,7 @@ public class scrObjectStun : MonoBehaviour {
     [Header("Vulnerability")]
     public bool vulnerable;
     public float vulnerabilityMultiplicator;
+    public bool hitWhileVulnerable;
 
     void Update()
     {
@@ -20,6 +21,8 @@ public class scrObjectStun : MonoBehaviour {
     {
         if (currentStunDuration > 0)
             currentStunDuration -= Time.deltaTime;
+        if (hitWhileVulnerable && currentStunDuration < 0)
+            hitWhileVulnerable = false;
     }
 
     public void SetStunDuration(float baseStunDuration)
@@ -27,6 +30,7 @@ public class scrObjectStun : MonoBehaviour {
         if (vulnerable)
         {
             currentStunDuration = baseStunDuration * vulnerabilityMultiplicator;
+            hitWhileVulnerable = true;
             return;
         }
         else

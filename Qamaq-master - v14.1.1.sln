@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qamaq-master - v14.1.1", "Qamaq-master - v14.1.1.csproj", "{AD7DCD2B-C1F7-905D-AD05-1AD062214B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qamaq-master - v14.1.1.Editor", "Qamaq-master - v14.1.1.Editor.csproj", "{FA160C78-C3EC-4C43-C4EE-9160A706533D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7DCD2B-C1F7-905D-AD05-1AD062214B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7DCD2B-C1F7-905D-AD05-1AD062214B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7DCD2B-C1F7-905D-AD05-1AD062214B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7DCD2B-C1F7-905D-AD05-1AD062214B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA160C78-C3EC-4C43-C4EE-9160A706533D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA160C78-C3EC-4C43-C4EE-9160A706533D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA160C78-C3EC-4C43-C4EE-9160A706533D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA160C78-C3EC-4C43-C4EE-9160A706533D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

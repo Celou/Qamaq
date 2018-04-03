@@ -17,6 +17,7 @@ public class scrCameraSize : MonoBehaviour {
         basicSize = GetComponent<Camera>().orthographicSize;
 
         currentGoalSize = basicSize;
+        currentSize = basicSize;
     }
 	
 	void Update () {
@@ -40,5 +41,7 @@ public class scrCameraSize : MonoBehaviour {
 
             GetComponent<Camera>().orthographicSize = currentSize;
         }
+        else
+            GetComponent<Camera>().orthographicSize = currentGoalSize;
     }
 }
